@@ -1,5 +1,5 @@
 .home{
-    max-width: 1500px;
+    max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -7,13 +7,13 @@
 .home__row{
     display: flex;
     z-index: 1;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 6px;
+    margin-right: 6px;
 }
 
 .home__image{
     width: 100%; 
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgb(0, 0, 0,0.9),  rgb(0, 0, 0,0));   
     z-index: -1;
-    margin-bottom: -200px;
+    margin-bottom: -180px;
 }
