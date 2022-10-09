@@ -44,22 +44,22 @@
 }
 
 .header__basketCount{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 11px;
+    margin-right: 11px;
 }
 
 .header__optionLineOne{
-    font-size: 10px;
+    font-size: 11px;
 }
 
 .header__optionLineTwo{
-    font-size: 13px;
-    font-weight: 800;
+    font-size: 14px;
+    font-weight: 750;
 }
 
 .header__searchIcon{
-    padding: 5px;
-    height: 22px !important;
+    padding: 6px;
+    height: 23px !important;
     background-color: orange;
 }
 
